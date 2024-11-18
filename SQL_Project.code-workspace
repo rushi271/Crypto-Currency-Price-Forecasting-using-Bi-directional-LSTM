@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/documents/SQL_Project"
+		},
+		{
+			"path": "../Desktop/documents/csv_files-20240430T112654Z-001"
+		},
+		{
+			"path": "../Desktop/documents/sql_load-20240430T112723Z-001"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"database": "postgres",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "sql_course",
+				"username": "postgres"
+			}
+		]
+	}
+}
